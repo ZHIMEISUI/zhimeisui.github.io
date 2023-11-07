@@ -34,10 +34,6 @@ User Privacy
 
 Publications
 ------
-#### The \textbf{CORE Ranking}, revered globally in academia, serves as a definitive compass in the computing disciplines, categorizing conferences or journals based on stringent criteria. 
-
-#### The China Computer Federation (CCF)} curates a prestigious list, recommending noteworthy international academic conferences and periodicals in the field of computing.
-
 
 1. *Zhimei Sui*, Shangqi Lai, Cong Zuo, Xingliang Yuan, Joseph K. Liu, Haifeng Qian (2019). An Encrypted Database with Enforced Access Control and Blockchain Validation. In: Guo, F., Huang, X., Yung, M. (eds) Information Security and Cryptology. Inscrypt 2018. Lecture Notes in Computer Science(), vol 11449. Springer, Cham. https://doi.org/10.1007/978-3-030-14234-6\_14. (CCF-C).
 2.  Liu, Qingyi and Liu, Zhen and Long, Yu and Liu, Zhiqiang and *Sui, Zhimei* and Sun, Shifeng and Tang, Shuyang and Gu, Dawu, "Making Monero Hard-to-Trace and More Efficient," 2019 18th IEEE International Conference On Trust, Security And Privacy In Computing And Communications/13th IEEE International Conference On Big Data Science And Engineering (TrustCom/BigDataSE), Rotorua, New Zealand, 2019, pp. 514-521, doi: 10.1109/TrustCom/BigDataSE.2019.00075. (CCF-C)
@@ -46,6 +42,11 @@ Publications
     https://doi.org/10.1145/3488932.3524126.  (CCF-C & CORE A)
 5. *Zhimei Sui*, Joseph K. Liu, Jiangshan Yu and Xianrui Qin, "MoNet: A Fast Payment Channel Network for Scriptless Cryptocurrency Monero," in 2022 IEEE 42nd International Conference on Distributed Computing Systems (ICDCS), Bologna, Italy, 2022 pp. 280-290. doi: 10.1109/ICDCS54860.2022.00035. (CCF-B & CORE A).
 6. Qin, Xianrui and Pan, Shimin and Mirzaei, Arash and *Zhimei Sui* and Ersoy, Oğuzhan and Sakzad, Amin and Esgin, Muhammed F. and Liu, Joseph K. and Yu, Jiangshan and Yuen, Tsz Hon, "BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts," 2023 IEEE Symposium on Security and Privacy (SP), San Francisco, CA, USA, 2023, pp. 2462-2480, doi: 10.1109/SP46215.2023.10179427. (CCF-A & CORE A*)
+
+## The \textbf{CORE Ranking}, revered globally in academia, serves as a definitive compass in the computing disciplines, categorizing conferences or journals based on stringent criteria. 
+
+## The China Computer Federation (CCF)} curates a prestigious list, recommending noteworthy international academic conferences and periodicals in the field of computing.
+
 
 Award
 ------
