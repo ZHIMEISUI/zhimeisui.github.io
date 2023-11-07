@@ -47,6 +47,11 @@ Publications
 
 #### The China Computer Federation (CCF)} curates a prestigious list, recommending noteworthy international academic conferences and periodicals in the field of computing.
 
+Teaching
+------
+1. 2022, Tutor & Marker, FIT2093 Introduction to CyberSecurity, Monash University
+2. 2022, Tutor & Marker, FIT3031 Network Security, Monash University
+3. 2020, Tutor & Marker, FIT5214 Blockchain, Monash University (Nominated for FIT Teaching Award)
 
 Award
 ------
