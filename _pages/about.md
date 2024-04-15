@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic portfolio. With a Ph.D. in blockchain and applied cryptography obtained from Monash University in August 2023, I am deeply passionate about blockchain technology. During my doctoral journey, I had the privilege of being mentored by [Dr. Jiangshan Yu](https://www.jiangshanyu.com/) and [Prof. Joseph K. Liu](https://users.monash.edu.au/~kailiu/). My research is dedicated to advancing the security and scalability of blockchain systems, with a primary focus on pioneering innovative off-chain solutions. As a Postdoctoral Researcher, my current mission is to explore the practical applications of blockchain technology, bridging the gap between theoretical potential and real-world utility.
+Welcome to my academic portfolio. With a Ph.D. in blockchain and applied cryptography obtained from Monash University in August 2023, I am deeply passionate about blockchain technology. During my doctoral journey, I had the privilege of being mentored by [Associate Prof. Jiangshan Yu](https://www.jiangshanyu.com/) and [Prof. Joseph K. Liu](https://users.monash.edu.au/~kailiu/). My research is dedicated to advancing the security and scalability of blockchain systems, with a primary focus on pioneering innovative off-chain solutions. As a Postdoctoral Researcher, my current mission is to explore the practical applications of blockchain technology, bridging the gap between theoretical potential and real-world utility.
 
 
 Research Focus
